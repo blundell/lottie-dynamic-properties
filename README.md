@@ -15,13 +15,13 @@ The crux of dynamic properties is summarised in this quote:
 > properties by their name using a KeyPath.
 
 And to understand those KeyPaths, the answer is not in the source json files but in the resolved file. The blog explains how to get these,
-for our example you can find the resolved paths in the local file `resolved-keypaths.txt`.
+for our example you can find the resolved paths in the local file [resolved-keypaths.txt](resolved-keypaths.txt).
 
 This app downloads the lottie file from here: https://drive.google.com/uc?id=1ebWqd_e2ci4kSKB83e37q2Bl0YMadwxv thus showing how you can
 control the dynamic properties of a lottie image (by knowing the collection of Layers), as well as control the source of that image
 remotely.
 
-If you are interested in looking at that json file, a local version in in this repo `lemon-lottie.json`.
+If you are interested in looking at that json file, a local version in in this repo [lemon-lottie.json](lemon-lottie.json).
 
 The app running:
 
