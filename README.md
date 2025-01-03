@@ -22,3 +22,7 @@ control the dynamic properties of a lottie image (by knowing the collection of L
 remotely.
 
 If you are interested in looking at that json file, a local version in in this repo `lemon-lottie.json`.
+
+The app running:
+
+![](lemon-app.gif)
