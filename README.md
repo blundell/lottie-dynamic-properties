@@ -1,6 +1,6 @@
 # Android Dynamic Animated SVGs (with Lottie)
 
-Blog: url coming soon
+Blog: https://blog.blundellapps.co.uk/android-dynamic-animated-svgs-with-lottie-dynamic-properties/
 
 This demo project shows how to control Lottie Dynamic Properties in a Lottie SVG image.
 
